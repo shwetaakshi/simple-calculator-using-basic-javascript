@@ -112,7 +112,7 @@ simple-calculator/
 
  👨‍💻 Author
 
-**Shwetaakshi**
+**Shwetaakshi Satvika**
 
 Feel free to fork this project, submit issues, and create pull requests!
 
